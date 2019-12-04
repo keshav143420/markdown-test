@@ -78,4 +78,4 @@ Underscores
 
 [![Javascript debug](https://img.youtube.com/vi/TtsvMRxmfGA&t=/0.jpg)](https://www.youtube.com/watch?v=TtsvMRxmfGA&t=)
 
-[![javascript debug with v](https://img.youtube.com/vi/v=TtsvMRxmfGA&t=/0.jpg)](https://www.youtube.com/watch?v=v=TtsvMRxmfGA&t=)
+[![javascript debug with](https://i1.ytimg.com/vi/TtsvMRxmfGA&t=/sddefault.jpg)](https://www.youtube.com/watch?v=TtsvMRxmfGA&t=)
