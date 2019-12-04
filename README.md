@@ -83,3 +83,5 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 [![JavaScript Debug](http://img.youtube.com/vi/TtsvMRxmfGA&t=/0.jpg)](https://www.youtube.com/watch?v=TtsvMRxmfGA&t=)
 
+[![JavaScript Debug](https://img.youtube.com/vi/v=TtsvMRxmfGA&t=/0.jpg)](https://www.youtube.com/watch?v=TtsvMRxmfGA&t=)
+
