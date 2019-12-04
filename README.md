@@ -81,10 +81,10 @@ Underscores
 [![javascript debug with](https://i1.ytimg.com/vi/TtsvMRxmfGA/sddefault.jpg)](https://www.youtube.com/watch?v=TtsvMRxmfGA)
 
 
-![alt text](https://i1.ytimg.com/vi/TtsvMRxmfGA/sddefault.jpg "Logo Title Text 1")
-![alt text](https://i1.ytimg.com/vi/TtsvMRxmfGA/sddefault.png "Logo Title Text 1")
-![alt text](https://img.youtube.com/vi/TtsvMRxmfGA/0.jpg "Logo Title Text 1")
-![alt text](https://img.youtube.com/vi/TtsvMRxmfGA/0.jpg "Logo Title Text 1")
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=TtsvMRxmfGA
+" target="_blank"><img src="http://img.youtube.com/vi/TtsvMRxmfGA/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
-<iframe width="1180" height="664" src="https://www.youtube.com/embed/TtsvMRxmfGA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/TtsvMRxmfGA/0.jpg)](http://www.youtube.com/watch?v=TtsvMRxmfGA)
