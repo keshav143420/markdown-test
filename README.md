@@ -79,3 +79,9 @@ Underscores
 [![Javascript debug](https://img.youtube.com/vi/TtsvMRxmfGA&t=/0.jpg)](https://www.youtube.com/watch?v=TtsvMRxmfGA&t=)
 
 [![javascript debug with](https://i1.ytimg.com/vi/TtsvMRxmfGA&t=/sddefault.jpg)](https://www.youtube.com/watch?v=TtsvMRxmfGA&t=)
+
+
+![alt text](https://i1.ytimg.com/vi/TtsvMRxmfGA&t=/sddefault.jpg "Logo Title Text 1")
+![alt text](https://i1.ytimg.com/vi/TtsvMRxmfGA&t=/sddefault.png "Logo Title Text 1")
+![alt text](https://img.youtube.com/vi/TtsvMRxmfGA&t=/0.jpg "Logo Title Text 1")
+![alt text](https://img.youtube.com/vi/TtsvMRxmfGA&t=/0.jpg "Logo Title Text 1")
